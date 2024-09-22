@@ -1,3 +1,3 @@
 # python_ml
 
-### My python Machine Learning practices and notes..
+### python Machine Learning practice notes
